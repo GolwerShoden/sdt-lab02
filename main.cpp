@@ -9,7 +9,8 @@ int main()
     cout << "A + B = " << a + b << '\n';
     cout <<"A= "<< a*2 <<'\n';
     cout <<"A * 2= "<< a*2 <<'\n';
-         <<"A - B = "<< a-b << '\n'
+         <<"A - B = "<< a-b << '\n';
+         <<"A*B="<<a+b<<'\n';
 
 
 
@@ -17,6 +18,5 @@ int main()
 
 
 
-         << "A / B = " << a / b << '\n';
     return 0;
 }
